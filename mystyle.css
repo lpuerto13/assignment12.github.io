@@ -37,6 +37,7 @@ p {color: navy;
 /* mouse over link */
 a:hover {    
   color: hotpink;
+  text-decoration: underline;
 }
 a:active {    
   color: blue;
