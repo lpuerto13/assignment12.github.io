@@ -38,3 +38,6 @@ p {color: navy;
 a:hover {    
   color: hotpink;
 }
+a:active {    
+  color: blue;
+}
