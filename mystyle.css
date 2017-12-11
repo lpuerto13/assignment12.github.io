@@ -1,45 +1,44 @@
 body 
 {background-color: lightblue;}
-h1 {
-  color: navy;
-  margin-left: 20px;
-  font-family: "Times New Roman", Times, serif;
-}
-h2 {
-  color: navy;
-  margin-left: 20px;
-  font-family: "Times New Roman", Times, serif;
-}
-h3 {
-  color: navy;
-  margin-left: 20px;
-  font-family: "Times New Roman", Times, serif;
-}
-h4 {
-  color: navy;
-  margin-left: 20px;
-  font-family: "Times New Roman", Times, serif;
-}
-h5 {
-  color: navy;
-  margin-left: 20px;
-  font-family: "Times New Roman", Times, serif;
-}
-h6 {
-  color: navy;
-  margin-left: 20px;
-  font-family: "Times New Roman", Times, serif;
-}
-p {color: navy;
-  margin-left: 20px;
-  font-family: "Times New Roman", Times, serif;
-}
-/* mouse over link */
 
+.center {      
+  text-align: center;  
+  border: 3px solid gray;}
+} 
 
-.center {    
-  text-align: center;
-  border: 3px solid gray;
+.center h1 {
+  color: navy;
+  margin-left: 20px;
+  font-family: "Times New Roman", Times, serif;
+}
+.center h2 {
+  color: navy;
+  margin-left: 20px;
+  font-family: "Times New Roman", Times, serif;
+}
+.center h3 {
+  color: navy;
+  margin-left: 20px;
+  font-family: "Times New Roman", Times, serif;
+}
+.center h4 {
+  color: navy;
+  margin-left: 20px;
+  font-family: "Times New Roman", Times, serif;
+}
+.center h5 {
+  color: navy;
+  margin-left: 20px;
+  font-family: "Times New Roman", Times, serif;
+}
+.center h6 {
+  color: navy;
+  margin-left: 20px;
+  font-family: "Times New Roman", Times, serif;
+}
+.center p {color: navy;
+  margin-left: 20px;
+  font-family: "Times New Roman", Times, serif;
 }
 
 ul {    list-style-type: none;    margin: 0;    padding: 0;    overflow: hidden;    background-color: #333;}
