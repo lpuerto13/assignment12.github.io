@@ -5,38 +5,9 @@ body
 .center {
   border: 3px solid gray;
   text-align: center;
+  font-family: "Times New Roman", Times, serif;
 } 
 
-.center h1 {
-  color: navy;
-  margin-left: 20px;
-  font-family: "Times New Roman", Times, serif;
-}
-.center h2 {
-  color: navy;
-  margin-left: 20px;
-  font-family: "Times New Roman", Times, serif;
-}
-.center h3 {
-  color: navy;
-  margin-left: 20px;
-  font-family: "Times New Roman", Times, serif;
-}
-.center h4 {
-  color: navy;
-  margin-left: 20px;
-  font-family: "Times New Roman", Times, serif;
-}
-.center h5 {
-  color: navy;
-  margin-left: 20px;
-  font-family: "Times New Roman", Times, serif;
-}
-.center h6 {
-  color: navy;
-  margin-left: 20px;
-  font-family: "Times New Roman", Times, serif;
-}
 p {color: black;
   margin-left: 20px;
   font-family: "Times New Roman", Times, serif;
@@ -70,7 +41,7 @@ iframe {
   float:left;
 }
 
-.classy iframe {
+.classy {
   float:right;
 }
 
