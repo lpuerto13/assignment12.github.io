@@ -1,4 +1,5 @@
 
+
 body 
 {background-color: #ccc;}
 
@@ -41,4 +42,21 @@ li a:hover {
   float:right;
 }
 
+a:link {
+    color: red;
+}
+
+/* visited link */
+a:visited {
+    color: green;
+}
+
+/* mouse over link */
+a:hover {
+    color: hotpink;
+}
+
+/* selected link */
+a:active {
+    color: blue;
 
