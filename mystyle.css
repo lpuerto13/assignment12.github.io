@@ -1,7 +1,13 @@
 
 
-body 
-{background-color: #ccc;}
+html, body 
+{background-color: #ccc;
+  position:fixed;
+    top:0;
+    bottom:0;
+    left:0;
+    right:0
+}
 
 .center {
   border: 3px solid gray;
